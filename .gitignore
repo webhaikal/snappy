@@ -1,0 +1,4 @@
+MSVC/*
+!MSVC/*.sln
+!MSVC/*.vcxproj
+!MSVC/*.h
